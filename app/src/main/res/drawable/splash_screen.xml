@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list  xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:drawable="@drawable/bg_gradient"/>
+    <item
+        android:bottom="250dp">
+        <bitmap
+        android:gravity="center"
+            android:src="@drawable/tomato"
+            android:tint="@color/darkpurple"
+            />
+    </item>
+    <item
+        android:bottom="200dp">
+        <bitmap
+            android:gravity="bottom"
+            android:src="@drawable/splash_text"
+            android:tint="@color/darkpurple" />
+    </item>
+</layer-list>

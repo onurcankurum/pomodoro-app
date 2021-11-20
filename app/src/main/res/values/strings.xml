@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Pomodoro</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <string name="rest">What a pomodoro, Huh?</string>
+    <string name="rest2">I need coffe</string>
+    <string name="rest3">I\'m thirsty</string>
+    <string name="rest4">have you ever listen \"remember the name\"?</string>
+
+
+
+    <string name="work">Captain, it\'s pomodoro</string>
+    <string name="work2">shhhhh!</string>
+    <string name="work3">I\'m totally focused</string>
+    <string name="work4">pomodoro madness!</string>
+
+    <string name="uready2">ready to focus</string>
+    <string name="uready">I\'m ready</string>
+    <string name="uready3">let\'s do this</string>
+    <string name="uready4">pomodoro attack!</string>
+
+
+
+
+
+</resources>

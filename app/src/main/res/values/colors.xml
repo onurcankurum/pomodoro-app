@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#360027</color>
+    <color name="purple_700">#360027</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="ligthpurple">#734d6a</color>
+        <color name="darkpurple">#682d5b</color>
+    <color name="darkerpurple">#360027</color>
+    <color name="darkerteal">#18423a</color>
+    <color name="lighterTeal">#9effec</color>
+    <color name="lighterPurple">#f2d5eb</color>
+    <color name="lighterMidTeal">#6ce6ce</color>
+    <color name="lighterDarkTeal">#00e8ba</color>
+    <color name="lighterDarkPuple">#fc70e1</color>
+    <color name="darkteal">#00735c</color>
+    <color name="lightteal">#387a6d</color>
+    <color name="dissmiss_button">#831616</color>
+    <color name="title_border_teal">#37c0a5</color>
+    <color name="title_border_purp">#BB86FC</color>
+</resources>
